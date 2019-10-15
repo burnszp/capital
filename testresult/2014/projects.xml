@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><projects xmlns="http://www.mentor.com/harness/Schema/bridgesprojects" author="system" creationDate="2019-10-14" creationTime="09:50:00" schemaVersion="1_0">
+  <project description="" folderpath="Quick Start" id="UID569ffe-1422e290540-279e2bee43fed9b5aeb17e7eb27cb620" name="Aerospace Interactive"/>
+  <project description="" folderpath="Quick Start" id="UIDba4871-1422e29449c-279e2bee43fed9b5aeb17e7eb27cb620" name="Aerospace Modular"/>
+  <project description="" folderpath="Quick Start" id="UID3d3a06-1490ed124cb-24860bd3e736b1d2b4cf56f882da6c10" name="Automotive Generative"/>
+  <project description="" folderpath="" id="UID4d2f93-16d15446b88-f528764d624db129b32c21fbca0cb8d6" name="通卫"/>
+  <project description="" folderpath="" id="UID2fbfcb-16d24ad3398-ef94443c96f38a5ae992ab7ba0885d36" name="2014_project"/>
+  <project description="" folderpath="" id="UID90724a-16d3dea889b-ef94443c96f38a5ae992ab7ba0885d36" name="Capital-Vpm_20190917"/>
+  <project description="" folderpath="" id="UID9fdc56-145ee33f2bb-6af40e9f81047dbd5bda7a14d91ea8d2" name="TA600"/>
+  <project description="" folderpath="" id="UIDd5a1f4-16d483c7a43-ef94443c96f38a5ae992ab7ba0885d36" name="洪都650"/>
+  <project description="" folderpath="" id="UID3cedd1-16d4d6f2efa-ef94443c96f38a5ae992ab7ba0885d36" name="test"/>
+  <project description="" folderpath="" id="UID14d46e-16dbddcfa7a-28306fc995defd3286d0d6de77752fde" name="601_线束直径精确计算"/>
+  <project description="" folderpath="" id="UID50225e-16706b9850d-027de63a1bc1d6181810b16ae83c481c" name="电路图更改的影响性分析【601】"/>
+</projects>
